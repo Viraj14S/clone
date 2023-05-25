@@ -18,7 +18,7 @@
      transition: 0.2s ease-in-out;
  }
  .nav-links.active{
-    left:0;
+    left:100;
  }
    
     .nav-links ul{
